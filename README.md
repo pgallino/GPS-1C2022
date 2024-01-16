@@ -13,6 +13,7 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de la F
 
 Correctora: **Maia Naftali** <br>
 Documentacion: [GPS Challenge](https://docs.google.com/document/d/10b_6xQsLKIDiMHNgsnLCcMwNaK_P4oKI3zwPJVeRxL4/edit?usp=sharing)
+Gameplay: https://youtube.com/shorts/mFofOue30ZE
 
 ## Aplicación
 
